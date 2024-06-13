@@ -1,0 +1,12 @@
+.intro {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .intro h2 {
+    margin-bottom: 5px;
+  }
+  
+  .intro p {
+    color: #666;
+  }
